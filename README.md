@@ -104,7 +104,7 @@
 | Auteur de tutoriel en Developpement | [@Linkedin](https://www.linkedin.com/) |  depuis janvier 2022 |
 
 
-<h3>Most Popular Open-Source Repositories🔺👑</h3>
+<h3>Repositories🔺👑</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -113,28 +113,9 @@
   </thead>
   <tbody>
   <tr>
-	    <td><a href="https://github.com/soumyadip007/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software"><b>Java-JavaFx-Swing Projects</b></a></td>
+	    <td><a href="https://github.com/mapenda-source/spring-boot-rabbitmq"><b>spring-rabbitmq</b></a></td>
      </tr>
-	 <tr>
-	    <td><a href="https://github.com/soumyadip007/Introduction-to-Python"><b>Introduction to Python</b></a></td> 
-    </tr>
-	  	 <tr>
-	    <td><a href="https://github.com/soumyadip007/Object-Oriented-Programming-Using-Python"><b>Object Oriented Programming</b></a></td>    
-    </tr>
- <tr>
-	  <tr>
-	    <td><a href="https://github.com/soumyadip007/Data-Structure-and-Algorithm-Using-Python"><b>Data Structrue</b></a></td>
-    </tr>
- 	  <tr>
-	    <td><a href="https://github.com/soumyadip007/Console-Based-Projects-C"><b>Console Based Project C</b></a></td>
-    </tr>
- 		 <tr>
-	    <td><a href="https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL"><b>E Medical System-Spring Boot</b></a></td>
-     </tr>
-	   <tr>
-	    <td><a href="https://github.com/soumyadip007/DBJ.jar"><b>DBJ.jar Library</b></a></td>
-     </tr>
-
+	 
  
  
   </tbody>	 
