@@ -21,17 +21,17 @@
   
 
 
-## :open_book: :books: Skilled in :closed_book: :desktop_computer:
+## :open_book: :books: compétence dans :closed_book: :desktop_computer:
 
 
-### Languages:
+### Langages:
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/pl/c.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/pl/java.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/pl/python.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/pl/js.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/pl/ts.png" height="30"></code>
 
-### Web Development (Full-stack):
+### Development Web(Full-stack):
 
 #### Backend/Server:
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/web/backend/j2ee.png" height="30"></code>
@@ -88,7 +88,7 @@
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/cloud/ku.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/cloud/jenkins.jpg" height="30"></code>
 
-### Others:
+### Autres:
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/other/ott.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/other/agile.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/other/jira.png" height="30"></code>
@@ -96,7 +96,7 @@
 <code><img src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/other/kaltura.png" height="30"></code>
 
 
-## Work Experience :computer_mouse: :desktop_computer: :keyboard:
+## Experience En entreprise :computer_mouse: :desktop_computer: :keyboard:
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
@@ -143,10 +143,9 @@
 
 ## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
   <ul>
-    <li><a href="https://medium.com/@iamsoumyadip/blockchain-future-of-web-3-0-3efe6f234f4a" />Blockchain & future of Web 3.0</a></li>
-   <li><a href="https://medium.com/@iamsoumyadip/a-decentralized-system-to-rescue-victims-from-natural-and-man-made-post-disasters-through-dtn-8a3faee687b8" />A decentralized system to rescue victims from post disasters through DTN</a></li>
-   <li><a href="https://medium.com/@iamsoumyadip/a-tri-folded-intelligent-system-to-pre-monitor-and-predict-a-tsunami-flood-and-earthquake-based-b92961094b32" />A tri-folded Intelligent System to pre-monitor and predict Disaster</a></li>
-      <li><a href="https://medium.com/@iamsoumyadip/design-an-enterprise-service-rest-api-with-mvc-binding-using-java-spring-boot-jpa-hibernate-db56108e7830" />Design an Enterprise Service Spring Boot with Microservices, Kafka, GraphQL, ElasticSearch</a></li>
+    <li><a href="https://www.linkedin.com/post/edit/7001604584079065088/" />Architecture RabbitMQ et Spring Boot</a></li>
+   <li><a href="https://www.linkedin.com/post/edit/7002866535203569664/" />Boucle d'événement(event loop) 
+de Javascript</a></li>
   </ul>
 <p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>
 
