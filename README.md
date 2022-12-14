@@ -101,7 +101,7 @@
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 | Développeur d'application web | [@Freelancer.com](https://www.freelancer.com/en) | Present |
-| Auteur d'article | [@NiiT (Kolkata)](https://www.linkedin.com/) |  depuis janvier 2022 |
+| Auteur de tutoriel en Developpement | [@Linkedin](https://www.linkedin.com/) |  depuis janvier 2022 |
 
 
 <h3>Most Popular Open-Source Repositories🔺👑</h3>
@@ -147,6 +147,5 @@
    <li><a href="https://www.linkedin.com/post/edit/7002866535203569664/" />Boucle d'événement(event loop) 
 de Javascript</a></li>
   </ul>
-<p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>
 
 
