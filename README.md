@@ -116,7 +116,7 @@
 	    <td><a href="https://github.com/mapenda-source/spring-boot-rabbitmq"><b>spring-rabbitmq</b></a></td>
     </tr>
     <tr> 
-	    <td><a href=" https://github.com/mapenda-source/blog-rest-api"><b>api d'une application de Blog</b></a></td>
+	    <td><a href="https://github.com/mapenda-source/blog-rest-api"><b>api d'une application de Blog</b></a></td>
     </tr>
 	 
   </tbody>	 
