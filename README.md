@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/"><img height="30" src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/social/p.png"></a>&nbsp;&nbsp;
+<a href="https://mapenda-source.github.io/curriculum-vitae/"><img height="30" src="https://raw.githubusercontent.com/mapenda-source/mapenda-source/master/img/social/p.png"></a>&nbsp;&nbsp;
 </p>
   
 
